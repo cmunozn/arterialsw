@@ -1,8 +1,3 @@
 Descripcion de la solucion.
 segunda linea agregada desde Toshiba 640 05/08
-<<<<<<< HEAD
-Tercera linea agregada en el toshiba 640
-cuarta linea en toshiba640
-=======
-Tercera linea agregada en el toshiba 640
->>>>>>> 6e639be86bfd33486a075c8ed352ba52c46b19ff
+
