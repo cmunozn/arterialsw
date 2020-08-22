@@ -15,3 +15,4 @@ linea 13
 al cmn original
 otro commit
 funciona con read-only
+solo colaboradores invitados 
