@@ -14,3 +14,4 @@ linea 13
 21/08 fork
 al cmn original
 otro commit
+funciona con read-only
