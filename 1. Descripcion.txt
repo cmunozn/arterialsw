@@ -21,4 +21,6 @@ ahora si que no
 xxxx
 eee
 desde CAS?
+Esta Es la propuesta que ira en el pull request
+Le agrego una segunda mejor...
 
